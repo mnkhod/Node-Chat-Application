@@ -1,0 +1,26 @@
+{
+  "name": "Node-Chat-Application",
+  "version": "1.0.0",
+  "description": "Learning Node.js Chat Application with MongoDB and mLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnkhod/Node-Chat-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnkhod/Node-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/mnkhod/Node-Chat-Application#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
